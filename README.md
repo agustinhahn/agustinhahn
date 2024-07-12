@@ -15,10 +15,10 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Astro](https://img.shields.io/badge/-Redux-333333?style=flat&logo=astro)
+  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Nest.js](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=nestjs)
+  ![Nest.js](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
