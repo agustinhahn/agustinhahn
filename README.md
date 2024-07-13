@@ -27,3 +27,4 @@
 <a href="Agustin.f.hahn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Agustin.f.hahn@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=agustinhahn&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinhahn&layout=pie)](https://github.com/agustinhahn/github-readme-stats)
