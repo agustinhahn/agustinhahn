@@ -2,7 +2,7 @@
 <h2>Frontend Developer MERN stack 💻 </h2>
 
 ### About Me
-- I am 27 years old and I am from Rosario, Santa Fe, Argentina.
+- I am 28 years old and I am from Rosario, Santa Fe, Argentina.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy the logic problems that arise when creating apps. In addition, I always look for a minimalist approach to design.
 - I am in the process of learning Node JS to also master the backend with technologies such as Express and Nest.
