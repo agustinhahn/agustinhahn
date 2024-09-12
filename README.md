@@ -6,6 +6,7 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy the logic problems that arise when creating apps. In addition, I always look for a minimalist approach to design.
 - I am in the process of learning Node JS to also master the backend with technologies such as Express and Nest.
+- I am also going to start a diploma in data science to learn a little more about what the future holds for us in the field of development.
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
